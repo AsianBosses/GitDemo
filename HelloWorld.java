@@ -6,6 +6,10 @@ public class HelloWorld{
 		System.out.println("Hello world2");
 		System.out.println("Hello world3");
 		
+		for(int i = 0; i < 5; i++){
+			System.out.println(i);
+		}
+		
 	}
 	
 }
